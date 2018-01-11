@@ -24,7 +24,7 @@ public class Adress {
              pilnaAdrese += valsts + ",";
              // same as --> pilnaAdrese = pilnaAdrese + Valsts ",";
          }
-         if (pilseta != null && pilseta != ""){
+         if (pilseta != null && pilseta != "123"){
            pilnaAdrese += pilseta + ",";
          }
          //"Latvia, Riga"
